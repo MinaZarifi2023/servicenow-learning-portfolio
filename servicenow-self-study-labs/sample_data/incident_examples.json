@@ -1,0 +1,26 @@
+[
+  {
+    "number": "INC0010001",
+    "short_description": "User cannot access email account",
+    "category": "software",
+    "priority": "2 - High",
+    "assignment_group": "Service Desk",
+    "state": "New"
+  },
+  {
+    "number": "INC0010002",
+    "short_description": "Laptop does not turn on after update",
+    "category": "hardware",
+    "priority": "3 - Moderate",
+    "assignment_group": "IT Hardware Support",
+    "state": "In Progress"
+  },
+  {
+    "number": "INC0010003",
+    "short_description": "Suspicious login attempt detected",
+    "category": "security",
+    "priority": "1 - Critical",
+    "assignment_group": "Security Operations",
+    "state": "New"
+  }
+]
