@@ -1,6 +1,6 @@
 # Screenshots
 
-Add screenshots from your personal ServiceNow developer instance here.
+Add screenshots from personal ServiceNow developer instance.
 
 Suggested screenshots:
 
@@ -12,4 +12,3 @@ Suggested screenshots:
 6. Flow Designer example
 7. Service Catalog example
 
-Do not upload private company data or sensitive information.
